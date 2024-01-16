@@ -1,7 +1,2 @@
-# Tauri + Solid + Typescript
-
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+#  Firefox theme loader
+this program will be designed to make the process of either pulling and/or uploading a userChrome.css file to your firefox profile folder easier
